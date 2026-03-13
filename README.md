@@ -22,14 +22,17 @@ I engineer enterprise-grade, local-first digital infrastructure for post-conflic
 
 ### 🌊 [HydroSentry (Green GIS Initiative)](https://github.com/sagegottrill/hydrosentry)
 **Decentralized Early Warning & Geospatial System**
+
 An edge-optimized pipeline tracking climate resources and flood risks across the Lake Chad Basin. Utilizes decentralized IoT telemetry and embedded TinyML to dispatch life-saving alerts entirely independent of cloud connectivity. Maintained by an open-source youth guild.
 
 ### 🏥 Open Medical Record Lite (UMTH)
 **High-Availability Clinical Data Infrastructure**
+
 Engineered a highly resilient REDCap v16.0.6 EDC deployment for the University of Maiduguri Teaching Hospital. Migrated critical infectious disease diagnostics to a secure, local-first server architecture (XAMPP/Apache) ensuring 99.9% uptime during regional telecom blackouts.
 
 ### 🏛️ Secure B2G Architecture (KIUTH)
 **State-Level Digital Transformation**
+
 Architected a highly-available digital recruitment and data management portal processing 5,000+ public sector applicants with zero downtime. Implemented advanced cryptographic sanitization and RBAC to secure sensitive Business-to-Government (B2G) data.
 
 ---
