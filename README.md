@@ -38,7 +38,7 @@ An open-source EMR built to solve the "Last-Write-Wins" fatal flaw in standard m
 **Lead Clinical Systems Administrator**
 Engineered a highly resilient REDCap v16.0.6 EDC deployment for the University of Maiduguri Teaching Hospital. Migrated critical infectious disease diagnostics to a secure, local-first server architecture ensuring 99.9% uptime during regional telecom blackouts.
 
-### 🛡️ [Secure B2G Architecture (KIUTH)] (https://github.com/sagegottrill/Kashim-Ibrahim-University)
+### 🛡️ [Secure B2G Architecture (KIUTH)](https://github.com/sagegottrill/Kashim-Ibrahim-University)
 **External Technical Consultant** 
 Architected a highly-available digital recruitment and data management portal processing 5,000+ public sector applicants. Implemented advanced cryptographic sanitization and RBAC to secure sensitive Business-to-Government (B2G) data.
 
