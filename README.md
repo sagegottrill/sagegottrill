@@ -1,5 +1,5 @@
 # Daniel Nicholas Dibal
-**Lead Systems Architect | Digital Sovereignty Advocate | Civic-Tech Founder**
+**Lead Systems Architect | Digital Sovereignty Advocate | Founder @ Orivon Edge**
 
 📍 Maiduguri, Borno State, Nigeria  
 📫 [danielnicholasdibal@gmail.com](mailto:danielnicholasdibal@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/danielnicholasdibal)
@@ -24,7 +24,7 @@ I engineer enterprise-grade, local-first digital infrastructure for post-conflic
 
 ### 🌊 [HydroSentry (GIS Module)](https://github.com/sagegottrill/hydrosentry)
 **Decentralized Climate & Early Warning Command Center**
-An edge-optimized pipeline tracking climate resources and flood risks across the Lake Chad Basin. Utilizes decentralized IoT telemetry and embedded TinyML to dispatch life-saving alerts entirely independent of cloud connectivity. Maintained by a local open-source youth guild.
+An edge-optimized pipeline tracking climate resources and flood risks across the Lake Chad Basin. Utilizes decentralized IoT telemetry and embedded TinyML to dispatch life-saving alerts entirely independent of cloud connectivity. Maintained on the ground by the **Orivon Edge Youth Guild**.
 
 ### 🏥 [OpenMed Lite (Health Module)](https://github.com/sagegottrill/open-med-lite)
 **Offline-First Clinical Records & CRDT Conflict Resolution**
