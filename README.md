@@ -1,8 +1,11 @@
 # Daniel Nicholas Dibal
 **Lead Systems Architect | Digital Sovereignty Advocate | Founder @ Orivon Edge**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Status: Pilot](https://img.shields.io/badge/Status-Phase_1_Pilot-blue.svg)]()
+
 📍 Maiduguri, Borno State, Nigeria  
-📫 [danielnicholasdibal@gmail.com](mailto:danielnicholasdibal@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/danielnicholasdibal)
+📫 [danielnicholasdibal@gmail.com](mailto:danielnicholasdibal@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/danieldibal/)
 
 ---
 
