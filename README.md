@@ -1,80 +1,59 @@
-# Daniel Nicholas Dibal
-**Lead Systems Architect | Venture Builder | Founder @ Orivon Edge**
+# ⚡ Daniel Nicholas Dibal
+### Lead Systems Architect | Venture Builder | Fractional CTO
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Status: Pilot](https://img.shields.io/badge/Status-Phase_1_Pilot-blue.svg)]()
+<div align="left">
+  <a href="mailto:danielnicholasdibal@gmail.com"><img src="https://img.shields.io/badge/Email-danielnicholasdibal%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Orivon_Edge-black?style=for-the-badge&logo=vercel"></a>
+</div>
 
-📍 Maiduguri, Borno State, Nigeria  
-📫 [danielnicholasdibal@gmail.com](mailto:danielnicholasdibal@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/danieldibal/) | 🌐 [Orivon Edge](https://www.orivonedge.tech/)
+<br>
 
----
-
-## 🏗️ Architectural Focus
-I am a Lead Systems Architect specializing in building highly resilient, high-load digital infrastructure. My work spans two distinct tracks: **Commercial Enterprise Systems** (Fintech, Headless E-commerce, AI SaaS) and **Civic Infrastructure** (Offline-first systems, Health Tech, GovTech).
-
-Whether I am architecting a conversational wallet for a fintech startup or engineering an offline-first clinical record system for a post-conflict zone, my focus is on performance, security, and mathematical data integrity.
-
-### ⚙️ Core Architecture & Tech Stack
-* **Enterprise & Fintech:** React, React Native, Flutter, TypeScript, Node.js, Python (FastAPI), PostgreSQL, Supabase.
-* **Decentralized & Offline-First:** CRDTs (Conflict-free Replicated Data Types), Local-First Sync, LoRaWAN Mesh, PostGIS.
-* **Security & Cloud:** Cryptographic Sanitization, RBAC, CI/CD, HIPAA/NDPR Enterprise Deployment, Docker, Low-Bandwidth Server Hardening.
-* **Edge AI:** TinyML embedded inference.
+I engineer high-performance, secure digital infrastructure for startups and enterprise clients. Operating at the intersection of **fintech**, **complex e-commerce**, and **B2G (Business-to-Government) systems**, I design architectures that scale seamlessly and handle high-volume transactions with zero friction.
 
 ---
 
-## 🚀 Track 1: Commercial Enterprise & Fintech
-*(Available for Contract & Consulting)*
+### ⚙️ Engineering Arsenal
 
-### 💳 [Summit Mobile (Fintech App)](https://github.com/Summit-Bank-Limited/summit-mobile)
-* **Role:** Lead Frontend/Integration Architect
-* **Stack:** Flutter, REST APIs, Secure Auth.
-* **Impact:** Integrated production API endpoints for user onboarding, wealth management, and seamless financial transfers, strictly adhering to banking compliance and security guardrails.
+**Architecture & Backend** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🛒 Headless E-Commerce & Marketplaces
-* **[CraftSync Multi-Vendor Rental](https://github.com/maxteebabs/craftsync) & [MaryQueenTrade Platform](https://github.com/sagegottrill/maryqueentrade_website)**
-* **Architecture:** Node.js backend APIs, SQLModel tables, Pydantic schemas, React.
-* **Impact:** Built custom headless e-commerce architectures replacing restrictive Shopify ecosystems. Engineered complex logic including tiered wholesale pricing, multi-vendor rental availability, VAT handling, and automated webhook triggers.
+**Frontend & Mobile** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 💬 Dima (Conversational Escrow Wallet)
-* **Role:** Technical Lead
-* **Architecture:** WhatsApp Business API, Meta Cloud API, Webhooks.
-* **Impact:** Engineered a secure, WhatsApp-based conversational wallet and escrow system for frictionless peer-to-peer commerce.
+**Core Capabilities:** Headless Commerce, Secure Payment Gateways (Escrow), High-Availability Systems, RBAC, CI/CD, Data Cryptography.
 
 ---
 
-## 🏛️ Track 2: Civic Tech & Digital Public Goods
-*(Orivon Edge | NGO & GovTech Partnerships)*
+### 🚀 Commercial Empire & Case Studies
 
-**🎯 Q4 Deliverable Target:** *The Sahel Open Source Playbook (Final Code Release & Documentation)*
+#### 💳 1. Fintech & Secure Escrow 
+*Architected for strict financial compliance, secure authentication, and seamless money movement.*
+* **[Summit Mobile](https://github.com/Summit-Bank-Limited/summit-mobile):** Lead Frontend/Integration Architect. Integrated production API endpoints for user onboarding, wealth management, and seamless financial transfers.
+* **Dima:** Technical Lead. Engineered a secure, WhatsApp-based conversational wallet and escrow system utilizing the Meta Cloud API for frictionless peer-to-peer commerce.
 
-### 🌊 [HydroSentry (GIS Module)](https://github.com/sagegottrill/hydrosentry)
-**Decentralized Climate & Early Warning Command Center**
-An edge-optimized pipeline tracking climate resources and flood risks across the Lake Chad Basin. Utilizes decentralized IoT telemetry and embedded TinyML to dispatch life-saving alerts entirely independent of cloud connectivity. Maintained on the ground by the **Orivon Edge Youth Guild**.
+#### 🛒 2. Enterprise Marketplaces & Headless Commerce
+*Custom architectures built to handle complex business logic, bypassing the limitations of standard SaaS platforms.*
+* **[CraftSync Multi-Vendor Rental](https://github.com/maxteebabs/craftsync):** Built the backend schema and logic for multi-vendor rental availability, tiered pricing, and automated webhooks.
+* **[MaryQueenTrade](https://github.com/sagegottrill/maryqueentrade_website):** Engineered a high-conversion headless e-commerce platform optimized for speed, complex product variations, and VAT handling.
 
-### 🏥 [OpenMed Lite (Health Module)](https://github.com/sagegottrill/open-med-lite)
-**Offline-First Clinical Records & CRDT Conflict Resolution**
-An open-source EMR architecture resolving the "Last-Write-Wins" fatal flaw in standard medical CRDTs. Features a "Human-in-the-Loop" conflict resolution protocol preventing critical patient data from being blindly overwritten during offline-to-online network synchronization.
+#### 🏛️ 3. High-Load B2G (Business-to-Government) Infrastructure
+*Proving scalability through massive, sudden-traffic public sector deployments.*
+* **[Sahel Admin Core](https://github.com/sagegottrill/sahel-admin-module) (KIUTH Deployment):** Architected a highly-available digital recruitment and data management portal. Successfully processed **5,000+ concurrent public sector applicants** with zero downtime or packet loss.
+* **UMTH Molecular Lab Data Architecture:** Engineered a highly resilient REDCap server deployment ensuring HIPAA/NDPR compliance and 99.9% uptime despite regional network blackouts.
 
-### 🛡️ [Sahel Admin Core (Admin Module)](https://github.com/sagegottrill/sahel-admin-module)
-**High-Load B2G Ingestion & Clearance Engine**
-An open-source, cryptographically sanitized administrative backend optimized for sudden high-traffic intake. Built to process thousands of concurrent user registrations and entity clearances without dropping packets during fragile telecom windows. 
-
----
-
-## 🔬 Enterprise Deployments & Institutional Architecture (Proof of Concept)
-
-### 🏥 Clinical Data Infrastructure (UMTH) 
-**Lead Clinical Systems Administrator**
-Engineered a highly resilient REDCap v16.0.6 EDC deployment for the University of Maiduguri Teaching Hospital. Migrated critical infectious disease diagnostics to a secure, local-first server architecture, ensuring HIPAA/NDPR compliance and 99.9% uptime during regional network blackouts.
-
-### 🏛️ Secure State HR Infrastructure (KIUTH / BICTDA)
-**External Technical Consultant** Architected a highly-available digital recruitment and data management portal processing 5,000+ public sector applicants. *Note: Core logic powers the Sahel Admin Module (above); proprietary state HR data and UI layers remain securely partitioned in private on-premise repositories.*
+#### 🤖 4. AI SaaS & EdTech Platforms
+*Building scalable platforms for enterprise learning and automated intelligence.*
+* **Connecta:** Architected the frontend and backend security protocols for an enterprise Learning Management System (LMS) and mentorship platform for She Leads Africa.
+* **Product Lab:** Leading the development and rapid deployment of proprietary AI tools (Deckly, North, Deep Reveal).
 
 ---
 
 ### 🤝 Let's Build
-I am currently open to **Lead Architect/Senior Developer contracts** (Fintech, E-commerce, AI SaaS) and **NGO/Government Partnerships** (Digitalization, Civic Tech deployment). 
 
-**[Drop me an email](mailto:danielnicholasdibal@gmail.com) to discuss architecture, venture building, or your next major deployment.**
+I partner with founders and enterprise teams to turn complex requirements into deployed, high-revenue platforms. 
 
-*"Building infrastructure that survives the reality of the ground."*
+**Currently available for:**
+- 🏗️ **Fractional CTO & Architecture Audits**
+- 💳 **Fintech & Headless Commerce Execution**
+- 🚀 **Enterprise MVP Builds**
+
+**[Drop me an email to discuss your architecture](mailto:danielnicholasdibal@gmail.com)**
