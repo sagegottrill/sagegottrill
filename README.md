@@ -3,7 +3,7 @@
 
 <div align="left">
   <a href="mailto:danielnicholasdibal@gmail.com"><img src="https://img.shields.io/badge/Email-danielnicholasdibal%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/danieldibal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.orivonedge.tech/"><img src="https://img.shields.io/badge/Portfolio-Orivon_Edge-black?style=for-the-badge&logo=vercel"></a>
 </div>
 
