@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e85d5d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e85d5d"/>
+      <stop offset="100%" stop-color="#e85d5d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#0d1117"/>
+  <rect x="40" y="56" width="820" height="2" fill="url(#line)"/>
+  <text x="450" y="40" text-anchor="middle" fill="#e85d5d" font-family="ui-monospace, Menlo, monospace" font-size="14" letter-spacing="6">SYSTEM STATUS · ONLINE</text>
+  <text x="450" y="92" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, Menlo, monospace" font-size="13">architecture audits · fintech builds · enterprise MVPs</text>
+</svg>

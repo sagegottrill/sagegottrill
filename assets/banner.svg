@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1a0a12"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff2d55"/>
+      <stop offset="50%" stop-color="#e85d5d"/>
+      <stop offset="100%" stop-color="#ff8a5c"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e85d5d" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#e85d5d" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- grid -->
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="1">
+    <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200 M0 280 H1200"/>
+    <path d="M80 0 V320 M160 0 V320 M240 0 V320 M320 0 V320 M400 0 V320 M480 0 V320 M560 0 V320 M640 0 V320 M720 0 V320 M800 0 V320 M880 0 V320 M960 0 V320 M1040 0 V320 M1120 0 V320"/>
+  </g>
+
+  <!-- neon orbs -->
+  <circle cx="980" cy="70" r="90" fill="url(#glow)" filter="url(#soft)"/>
+  <circle cx="180" cy="260" r="110" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- accent bar -->
+  <rect x="64" y="72" width="8" height="160" rx="4" fill="url(#neon)"/>
+
+  <text x="96" y="110" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="4">ORIVON EDGE · NIGERIA</text>
+  <text x="96" y="168" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700">DANIEL NICHOLAS DIBAL</text>
+  <text x="96" y="214" fill="url(#neon)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Lead Systems Architect  ·  Fractional CTO  ·  Venture Builder</text>
+  <text x="96" y="258" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">fintech  ×  multi-tenant SaaS  ×  high-load B2G</text>
+
+  <!-- corner brackets -->
+  <path d="M40 40 H90 M40 40 V90" stroke="#e85d5d" stroke-width="3" fill="none"/>
+  <path d="M1160 40 H1110 M1160 40 V90" stroke="#e85d5d" stroke-width="3" fill="none"/>
+  <path d="M40 280 H90 M40 280 V230" stroke="#e85d5d" stroke-width="3" fill="none"/>
+  <path d="M1160 280 H1110 M1160 280 V230" stroke="#e85d5d" stroke-width="3" fill="none"/>
+</svg>
